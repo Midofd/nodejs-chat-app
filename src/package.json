@@ -1,0 +1,26 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midofd/nodejs-websocket-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midofd/nodejs-websocket-server/issues"
+  },
+  "homepage": "https://github.com/Midofd/nodejs-websocket-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "serve-handler": "^6.1.5",
+    "ws": "^8.13.0"
+  }
+}
